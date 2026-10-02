@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Neha Patil 👋
 
-<!--
-**neyhapatil/neyhapatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Computer Science graduate based in Hyderabad, aspiring **Data Analyst**.
+I enjoy turning raw data into clear insights using SQL, Python, Excel and Power BI.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** Python, Java, HTML/CSS
+- **Databases:** SQL, MySQL, MongoDB
+- **Analytics & BI:** Excel, Power BI, Tableau, Jupyter
+- **Concepts:** Data Cleaning, EDA, Data Visualization, Statistical Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+- **Sales Performance Analysis Dashboard** – Analysed 6 months of sales data and built a Power BI dashboard with 5+ KPIs (Excel, SQL, Power BI)
+
+## 📚 Currently Learning
+- Data Science (Ashok IT)
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/neha-patil-23a2913b4
+- Email: Neyha2411@gmail.com
